@@ -19,4 +19,4 @@ jobs:
           python-version: '3.9'
 
       - name: Run Code
-        run: python src/app.py
+        run: python app.py
